@@ -9,3 +9,4 @@ I love precise definitions. Take note of the word ***any***.
 
 * [**Alphabetical list on Mathworld**](<https://mathworld.wolfram.com/letters/>)
 * [**History of Mathematics**](<https://mathshistory.st-andrews.ac.uk/>)
+* [**This on remote git**](<https://github.com/jweken/math>)
