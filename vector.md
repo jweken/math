@@ -1,0 +1,3 @@
+# Vector
+
+A [**vector**](<https://mathworld.wolfram.com/Vector.html>) is formally defined as an element of a vector space. In the commonly encountered vector space R^n (i.e., Euclidean n-space), a vector is given by n coordinates and can be specified as (A_1,A_2,...,A_n). Vectors are sometimes referred to by the number of coordinates they have, so a 2-dimensional vector (x_1,x_2) is often called a two-vector, an n-dimensional vector is often called an n-vector, and so on.
