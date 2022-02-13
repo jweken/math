@@ -9,8 +9,8 @@ I love precise definitions. Take note of the word ***any***.
 
 ## Some important links
 
-* [Alphabetical list on Mathworld](<https://mathworld.wolfram.com/letters/>)
-* [History of Mathematics](<https://mathshistory.st-andrews.ac.uk/>)
+* [**Alphabetical list on Mathworld**](<https://mathworld.wolfram.com/letters/>)
+* [**History of Mathematics**](<https://mathshistory.st-andrews.ac.uk/>)
 * [**This on remote git**](<https://github.com/jweken/math>)
 * [**Special Plane Curves**](<http://xahlee.info/SpecialPlaneCurves_dir/specialPlaneCurves.html>)
 
